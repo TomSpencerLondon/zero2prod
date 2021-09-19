@@ -8,3 +8,13 @@ So that I can notify them when new content is published;
 - As a subscriber,
 I want to be able to unsubscribe from the newsletter,
 So that I can stop receiving email updates from the blog.
+
+
+
+We will not add features to
+- manage multiple newsletters;
+- segment subscribers in multiple audiences;
+- track opening and click rates.
+
+
+##### we are now on 3.5.1 - Polishing (page 35 / 261)
